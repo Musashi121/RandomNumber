@@ -27,7 +27,6 @@ def main_game():
     else:
         print("Trying to be clever are we?! Hard difficulty it is!")
 
-
     while not game_over:
         num_lives -= 1
         if num_lives == 0:
