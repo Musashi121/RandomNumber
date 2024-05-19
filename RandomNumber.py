@@ -13,6 +13,7 @@ def check_answer (user_guess, real_answer):
 print("Welcome to the number guessing game!")
 print("I'm thinking of a number between 1 and 100!")
 
+# Partially Updated
 
 def main_game():
     answer = randint(1, 100)
